@@ -13,6 +13,14 @@ Product details: name, category, price, discount, ratings.
 
 Customer engagement: reviews, content, and titles.
 
+### 📌 Tools Used
+Microsoft Excel (Pivot Tables, Charts, Calculated Columns)
+
+Excel Dashboard (interactive visuals)
+
+Data Cleaning & Transformation
+
+
 ### 📊 Analysis Goals
 Using Excel pivot tables and calculated columns, I answered the following:
 
@@ -38,8 +46,10 @@ Using Excel pivot tables and calculated columns, I answered the following:
 
 11. Does rating relate to level of discount?
 
-112. Products with < 1,000 reviews?
+12. Products with < 1,000 reviews?
 
-Categories with highest discounts.
+13. Categories with highest discounts.
 
-Top 5 products in terms of rating and review count.
+14. Top 5 products in terms of rating and review count.
+### <img width="1254" height="1082" alt="image" src="https://github.com/user-attachments/assets/087e1413-3658-4729-a863-c4a08db02575" />
+
