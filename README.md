@@ -1,55 +1,106 @@
-# DSA-AMAZON-PRODUCT-REVIEW-ANALYSIS
-Data analysis of Amazon product reviews using Excel – pivot tables, dashboards, and business insights.
+# 📦 Amazon Product Review Analysis
 
-## Project Topic: Amazon Product Review Analysis
+## 🔍 Overview
 
-### 🔍 Project Overview
-This project is part of a case study at RetailTech Insights where I worked as a Junior Data Analyst. The goal was to analyze Amazon product and customer review data to provide insights that support product development, marketing strategies, and customer engagement.
+This project simulates a real-world data analytics task at *RetailTech Insights*, a company offering e-commerce analytics solutions to sellers on platforms like Amazon.
 
-### 📁 Dataset Description
-The dataset contains information scraped from Amazon product pages, including:
+As a Junior Data Analyst, I analyzed product and customer review data to generate insights that guide product improvements, marketing strategies, and customer engagement. The entire analysis was done using **Microsoft Excel** — from data cleaning to dashboard creation.
 
-Product details: name, category, price, discount, ratings.
+---
 
-Customer engagement: reviews, content, and titles.
+<details>
+<summary>🏢 <strong>Project Context</strong></summary>
 
-### 📌 Tools Used
-Microsoft Excel (Pivot Tables, Charts, Calculated Columns)
+**Client:** *RetailTech Insights*  
+**Industry:** *E-commerce Analytics*  
+**Role:** *Junior Data Analyst*  
+**Tools & Techniques Used:**  
+- Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)  
+- Data Cleaning and Transformation  
+- Dashboard Design and Storytelling  
+- Exploratory Data Analysis (EDA)
 
-Excel Dashboard (interactive visuals)
+</details>
 
-Data Cleaning & Transformation
+---
 
+## 📁 Dataset Description
 
-### 📊 Analysis Goals
-Using Excel pivot tables and calculated columns, I answered the following:
+The dataset contains product and customer review information scraped from Amazon product pages:
 
-1. What’s the average discount percentage by product category?
+- **Product Details:** name, category, price, discount, and ratings  
+- **Customer Engagement:** user reviews, content, and titles  
+- Each row represents a **unique product**, with aggregated reviewer data
 
-2. How many products are listed under each category?
+📊 **Records:** 1,351 rows  
+🧮 **Fields:** 16 columns  
 
-3. Total number of reviews per category?
+---
 
-4. Products with the highest average rating?
+## 🎯 Analysis Goals
 
-5. Average actual price vs discounted price per category.
+Using Excel pivot tables and calculated columns, I explored and answered:
 
-6. Products with the highest number of reviews.
+1. What’s the average discount percentage by product category?  
+2. How many products are listed under each category?  
+3. What is the total number of reviews per category?  
+4. Which products have the highest average rating?  
+5. What’s the average actual price vs the discounted price per category?  
+6. Which products have the highest number of reviews?  
+7. How many products have discounts of 50% or more?  
+8. What’s the distribution of product ratings (e.g., 3.0, 4.0, etc.)?  
+9. What is the total potential revenue (`actual_price * rating_count`) by category?  
+10. What is the number of unique products per price range bucket?  
+11. How does rating relate to the level of discount?  
+12. How many products have fewer than 1,000 reviews?  
+13. Which categories have the highest discounts?  
+14. Identify the top 5 products by rating and number of reviews combined.
 
-7. Count of products with discounts ≥ 50%.
+---
 
-8. Distribution of ratings (e.g. how many are rated 3.0, 4.0, etc)?
+## 📊 Key Analytical Tasks & Solutions
 
-9. Total potential revenue by category.
+| #  | Task Description                                                                 | Excel Tools / Logic Used                                |
+|----|----------------------------------------------------------------------------------|----------------------------------------------------------|
+| 1  | What is the average discount % by product category?                              | Pivot Table + Average Formula                            |
+| 2  | How many products are listed under each category?                                | Pivot Table + Count                                      |
+| 3  | What is the total number of reviews per category?                                | SUM of `Rating Count` by category                        |
+| 4  | Which products have the highest average ratings?                                 | Sorting based on calculated `Average Rating`             |
+| 5  | What is the actual vs discounted price by category?                              | Grouped Bar Chart + Pivot Summary                        |
+| 6  | Which products have the highest number of reviews?                               | Top-N Analysis using Sorting + Pivot Table               |
+| 7  | How many products have ≥ 50% discount?                                            | Filter logic on Discount column                          |
+| 8  | What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?              | Grouped Histogram with Pivot Count                       |
+\
 
-10. Number of unique products per price range (e.g., < ₦200, ₦200–₦500, ₦500+).
+---
 
-11. Does rating relate to level of discount?
+## 📊 Dashboard Preview
 
-12. Products with < 1,000 reviews?
+![Dashboard Preview](./visuals/dashboard_preview.png) <!-- Replace with your actual path/screenshot -->
 
-13. Categories with highest discounts.
+> The Excel dashboard provides an interactive, visual summary using charts, slicers, and conditional formatting for trend discovery and comparative analysis.
 
-14. Top 5 products in terms of rating and review count.
-### <img width="1254" height="1082" alt="image" src="https://github.com/user-attachments/assets/087e1413-3658-4729-a863-c4a08db02575" />
+---
+
+## 🧠 Key Insights
+
+- 📈 *Electronics* and *Home Appliances* had the highest review counts, indicating strong customer engagement.  
+- 💸 *Fashion* products offered the largest discounts, averaging over 40%.  
+- ⭐ Products with the highest ratings were not always those with the most reviews — showing potential niche product popularity.  
+- 🛍️ High discount rates didn’t guarantee high ratings — suggesting that pricing alone isn’t enough for customer satisfaction.
+
+---
+
+## ✅ Tasks Completed
+
+- [x] Cleaned and pre-processed raw dataset  
+- [x] Created multiple pivot tables to explore key metrics  
+- [x] Answered 14 analytical business questions  
+- [x] Designed a fully functional Excel dashboard  
+- [x] Uploaded all assets and documented in GitHub
+
+---
+
+## 📂 Repository Structure
+
 
