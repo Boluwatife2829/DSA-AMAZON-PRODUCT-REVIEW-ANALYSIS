@@ -90,6 +90,10 @@ Using Excel pivot tables and calculated columns, I explored and answered:
 ### 📊 SECTION 3: RATING AND PERFORMANCE INSIGHTS
 <img width="1510" height="629" alt="Amazon Dashboard 3" src="https://github.com/user-attachments/assets/cd369a86-f51b-41b9-941e-5ac20af22f94" />
 
+### Full Dashboard
+<img width="1991" height="1696" alt="full picture" src="https://github.com/user-attachments/assets/5dcb85e9-12af-4173-a352-b688f72f2bc3" />
+
+
 ## 🧠 Pivot Tables
 <img width="1227" height="705" alt="Pivot Tables" src="https://github.com/user-attachments/assets/af478599-a533-4dab-a047-b4f1f781a044" />
 
