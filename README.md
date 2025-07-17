@@ -114,12 +114,18 @@ Using Excel pivot tables and calculated columns, I explored and answered:
 
 ---
 
-## 🧠 Key Insights
+## ✅ Key Takeaways
+Discount ≠ High Rating: Discounts don’t guarantee better reviews.
 
-- 📈 *Electronics* and *Home Appliances* had the highest review counts, indicating strong customer engagement.  
-- 💸 *Fashion* products offered the largest discounts, averaging over 40%.  
-- ⭐ Products with the highest ratings were not always those with the most reviews — showing potential niche product popularity.  
-- 🛍️ High discount rates didn’t guarantee high ratings — suggesting that pricing alone isn’t enough for customer satisfaction.
+Affordable Pricing Dominates: Most products are low to mid-priced.
+
+Top Revenue Categories: Home Kitchen & Electronics lead.
+
+Most Reviewed: Electronics & Accessories get the most feedback.
+
+Top Products: AmazonBasics FI, Realme X stand out.
+
+Biggest Discounts: Health & Home items offer the steepest cuts.
 
 ---
 
@@ -133,6 +139,16 @@ Using Excel pivot tables and calculated columns, I explored and answered:
 
 ---
 
-## 📂 Repository Structure
+### 🎯 Motivation
+With so many products on Amazon, understanding customer behavior through review data can help sellers improve product visibility, pricing, and satisfaction. This project was designed to simulate a real-world business case as a Junior Data Analyst.
+
+---
+
+### 👋 Let’s Connect
+If you’d like to collaborate or have feedback, feel free to reach out!
+
+📧 Email: hephzibah200829@gmail.com  
+📱 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/your-profile)
+
 
 
