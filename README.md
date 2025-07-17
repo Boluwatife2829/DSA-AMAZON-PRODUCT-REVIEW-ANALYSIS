@@ -1,4 +1,4 @@
-# 📦 Amazon Product Review Analysis
+<img width="887" height="405" alt="Pivot Tables" src="https://github.com/user-attachments/assets/c39da4a1-d554-455b-ae9e-a851fcf7f329" /># 📦 Amazon Product Review Analysis
 
 ## 🔍 Overview
 
@@ -64,19 +64,41 @@ Using Excel pivot tables and calculated columns, I explored and answered:
 |----|----------------------------------------------------------------------------------|----------------------------------------------------------|
 | 1  | What is the average discount % by product category?                              | Pivot Table + Average Formula                            |
 | 2  | How many products are listed under each category?                                | Pivot Table + Count                                      |
-| 3  | What is the total number of reviews per category?                                | SUM of `Rating Count` by category                        |
+| 3  | What is the total number of reviews per category?                                | Bar of a Pie + Pivot Table                               |
 | 4  | Which products have the highest average ratings?                                 | Sorting based on calculated `Average Rating`             |
-| 5  | What is the actual vs discounted price by category?                              | Grouped Bar Chart + Pivot Summary                        |
-| 6  | Which products have the highest number of reviews?                               | Top-N Analysis using Sorting + Pivot Table               |
-| 7  | How many products have ≥ 50% discount?                                            | Filter logic on Discount column                          |
-| 8  | What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?              | Grouped Histogram with Pivot Count                       |
-\
+| 5  | What is the actual vs discounted price by category?                              | 3-D 100% Stacked Bar Chart + Pivot Table                 |
+| 6  | Which products have the highest number of reviews?                               | Pivot Table + Filter in ascending order                  |
+| 7  | How many products have ≥ 50% discount?                                           | Filter on Calculated Discount column                     |
+| 8  | What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)?              | Pivot Table + Bar chart                                   |
+| 9  | Total potential revenue (actual_price × rating_count) per category?              | Pivot Table + SUM filter                                  |
+| 10 | Unique product count per price range bucket (<200, 200–500, >500)?	              | IF formulas + Donut Chart                                 |
+| 11 | Relationship between rating and discount level?                                  |	Scatter Line Chart                                        |
+| 12 | How many products have fewer than 1,000 reviews?	                                | COUNTIF Formula                                           |
+| 13 | Categories with highest average discount?	                                      | Sorted Pivot Table by MAX of Discount%                    |
+| 14 | Top 5 products by combined review count and rating	                              | Rank using SUM(Rating × ReviewCount)                      |
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./visuals/dashboard_preview.png) <!-- Replace with your actual path/screenshot -->
+### 📊 Section 1: Product Distribution & Category Insight!
+<img width="1224" height="574" alt="Amazon Excel Dashboard 1" src="https://github.com/user-attachments/assets/58ee92ce-53ec-4872-b00d-17668e2ce11e" />
+
+### 📊 SECTION 2: PRICING AND DISCOUNTS
+<img width="1202" height="529" alt="Amazon Dashboard 2" src="https://github.com/user-attachments/assets/1f0dfdc7-f793-4dd3-9cd4-26c91ce9254e" />
+
+### 📊 SECTION 3: RATING AND PERFORMANCE INSIGHTS
+<img width="1210" height="529" alt="Amazon Dashboard 3" src="https://github.com/user-attachments/assets/cd369a86-f51b-41b9-941e-5ac20af22f94" />
+
+## 🧠 Pivot Tables
+<img width="1227" height="705" alt="Pivot Tables" src="https://github.com/user-attachments/assets/af478599-a533-4dab-a047-b4f1f781a044" />
+
+
+
+
+
+
+
 
 > The Excel dashboard provides an interactive, visual summary using charts, slicers, and conditional formatting for trend discovery and comparative analysis.
 
