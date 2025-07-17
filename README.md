@@ -1,4 +1,4 @@
-<img width="887" height="405" alt="Pivot Tables" src="https://github.com/user-attachments/assets/c39da4a1-d554-455b-ae9e-a851fcf7f329" /># 📦 Amazon Product Review Analysis
+# 📦 Amazon Product Review Analysis
 
 ## 🔍 Overview
 
@@ -82,16 +82,26 @@ Using Excel pivot tables and calculated columns, I explored and answered:
 ## 📊 Dashboard Preview
 
 ### 📊 Section 1: Product Distribution & Category Insight!
-<img width="1224" height="574" alt="Amazon Excel Dashboard 1" src="https://github.com/user-attachments/assets/58ee92ce-53ec-4872-b00d-17668e2ce11e" />
+<img width="1624" height="774" alt="Amazon Excel Dashboard 1" src="https://github.com/user-attachments/assets/58ee92ce-53ec-4872-b00d-17668e2ce11e" />
 
 ### 📊 SECTION 2: PRICING AND DISCOUNTS
-<img width="1202" height="529" alt="Amazon Dashboard 2" src="https://github.com/user-attachments/assets/1f0dfdc7-f793-4dd3-9cd4-26c91ce9254e" />
+<img width="1602" height="629" alt="Amazon Dashboard 2" src="https://github.com/user-attachments/assets/1f0dfdc7-f793-4dd3-9cd4-26c91ce9254e" />
 
 ### 📊 SECTION 3: RATING AND PERFORMANCE INSIGHTS
-<img width="1210" height="529" alt="Amazon Dashboard 3" src="https://github.com/user-attachments/assets/cd369a86-f51b-41b9-941e-5ac20af22f94" />
+<img width="1510" height="629" alt="Amazon Dashboard 3" src="https://github.com/user-attachments/assets/cd369a86-f51b-41b9-941e-5ac20af22f94" />
 
 ## 🧠 Pivot Tables
 <img width="1227" height="705" alt="Pivot Tables" src="https://github.com/user-attachments/assets/af478599-a533-4dab-a047-b4f1f781a044" />
+
+## 🌱 Raw Data Set & Table
+<img width="1884" height="972" alt="Tables" src="https://github.com/user-attachments/assets/cb41716e-d18a-4011-9a54-6483d15de270" />
+
+<img width="1887" height="956" alt="image" src="https://github.com/user-attachments/assets/ac71ee4c-96ef-4fa9-9c6f-750e792b7d62" />
+
+
+
+
+
 
 
 
