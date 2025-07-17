@@ -148,7 +148,7 @@ With so many products on Amazon, understanding customer behavior through review 
 If you’d like to collaborate or have feedback, feel free to reach out!
 
 📧 Email: hephzibah200829@gmail.com  
-📱 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/your-profile)
+📱 LinkedIn: [Boluwatife Amu](https://linkedin.com/in/boluwatife-amu-15a1b0287)
 
 
 
